@@ -1,0 +1,163 @@
+.div1 li{
+    display: inline;
+    height: 100%;
+    padding-bottom: -1%;
+ }
+ .ul1 a{
+  color: black ;
+ }
+ .ul1 #a3:hover{
+    color: red;
+ }
+ 
+ .ul1{
+  border-bottom: 2px rgba(0, 0, 0, 0.075) solid;
+    margin-top: -1px;
+    padding: 10px;
+    max-width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.178);
+ }
+ #a1{
+    text-align: center;
+    size: 10px;
+    border: transparent;
+    background-color: transparent;
+    
+ }
+ #a2{
+    text-align: center;
+    size: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: 20px;
+    border: transparent;
+ }
+ .b1{
+  size: 80px;
+ }
+ #a3{
+    margin-left: 20px;
+ }
+ #a4{
+    margin-left: 300px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace cursive ;
+    font-size: 25px;
+ }
+ #a5{
+ background-color:blue;
+ color: white;
+ margin-left: 200px;
+ }
+ #a6:hover{
+    background-color: black;
+    color: aliceblue;      
+ }
+ #a7{
+    text-align: justify;
+    margin-left: 240px;
+  margin-top: 90px;  
+ }
+ #a8{
+    margin-left: 240px;
+    margin-top: 0px;
+    font-size: 55px;
+    margin-right: 200px;
+    font-family: cursive;
+    font-style: oblique;
+ }
+ #a9{
+    margin-top: -25px;
+    font-size: 30px;
+    margin-left: 240px; 
+    margin-right: 200px;
+    color: rgba(0, 0, 0, 0.774);   
+ }
+ .button2{
+    margin-left: 240px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border-color: rgba(0, 0, 0, 0.26);
+    padding: 5px;
+ }
+ .button3{
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border-color: rgba(0, 0, 0, 0.26);
+    padding: 5px;
+ }
+
+ .button4{
+    margin-left: 10px;
+    padding-top: 15px;
+    margin-top: 10px;
+    border-radius: 50px;
+    border-color: rgba(0, 0, 0, 0.26);
+    padding: 8px;
+ }
+ .image1{
+    margin-top: 30px;
+    margin-left: 30px;
+ }
+ #a0{
+    margin-left: 30px;
+    margin-right: 500px;
+    color: rgba(0, 0, 0, 0.459);
+    margin-bottom: 60px;
+ }
+ .link1{
+    margin-left: 240px;
+    padding-top: 70px;
+ }
+ .link2{
+   color: black;
+   font-size: 20px;
+   text-align: center;
+ }
+ #b1{
+    color: rgba(0, 0, 0, 0.308);
+    margin-left: 300px;
+    font-size: 15px;
+ }
+ .div2{
+    margin-left: 240px;
+    text-align: ;
+    margin-right: 230px;
+    font-size: 30px;
+    pad: 10px;
+ }
+ span{
+    color: blue;
+ }
+ #b2{
+    margin-left: 240px;
+    margin-right: 250px;
+ }
+ #b3{
+    margin-left: 240px;
+    margin-right: 350px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.473);
+ }
+ .div3{
+    margin-left: 240px;
+    margin-right: 300px;
+    font-size: 25px;
+ }
+ .div4{
+    border: 2px solid rgba(0, 0, 0, 0.103);
+    margin-left: 240px;
+    margin-right: 300px;
+    font-size: 22px;
+ }
+ .div5{
+    border: 2px solid rgba(0, 0, 0, 0.219);
+    margin-top: 30px;
+    margin-left: 240px;
+    margin-right: 300px;
+    margin-bottom: 90px;
+ }
+ span .A2{
+    color: black;
+ }

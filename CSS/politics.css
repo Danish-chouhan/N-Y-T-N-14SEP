@@ -1,0 +1,142 @@
+.div1 li{
+    display: inline;
+    height: 100%;
+    padding-bottom: -1%;
+ }
+ .ul1 a{
+  color: black ;
+ }
+ .ul1 #a3:hover{
+    color: red;
+ }
+ 
+ .ul1{
+  border-bottom: 2px rgba(0, 0, 0, 0.075) solid;
+    margin-top: -1px;
+    padding: 10px;
+    max-width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.178);
+ }
+ #a1{
+    text-align: center;
+    size: 10px;
+    border: transparent;
+    background-color: transparent;
+    
+ }
+ #a2{
+    text-align: center;
+    size: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: 20px;
+    border: transparent;
+ }
+ .b1{
+  size: 80px;
+ }
+ #a3{
+    margin-left: 20px;
+ }
+ #a4{
+    margin-left: 300px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace cursive ;
+    font-size: 25px;
+ }
+ #a5{
+ background-color:blue;
+ color: white;
+ margin-left: 200px;
+ }
+ #a6:hover{
+    background-color: black;
+    color: aliceblue;      
+ }
+ #a7{
+  margin-left: 30px;
+ }
+ #a8{
+  margin-left: 30px;
+  font-size: 60px;
+  font-family: cursive;
+ }
+ .image1{
+   margin-left: 30px;
+   margin-top: 20px;
+ }
+ #a9{
+
+  font-size: 50px;
+  margin-left: 240px;
+  margin-right: 250px;
+ margin-top: 50px;
+ }
+ #a0{
+  font-size: 20px;
+  margin-left: 240px;
+  text-align: justify;
+
+ }
+ #b1{
+  font-size: 20px;
+  margin-left: 240px;
+  text-align: justify;
+  color: rgba(0, 0, 0, 0.553);
+ }
+ #b2{
+  margin-top: 30px;
+  margin-left: 240px;
+  margin-right: 800px;
+ }
+ #b3{
+  margin-left: 240px;
+  margin-top: 40px;
+  color: blue;
+ }
+ .div2{
+  font-size: 26px;
+  margin-left: 240px;
+  margin-right: 300px;
+ }
+ #b4{
+  border: 2px solid rgba(0, 0, 0, 0.171);
+  margin-left: 240px;
+  margin-right: 300px;
+  padding: 20px;
+  font-size: 18px;
+ }
+ span{
+  color: blue;
+ }
+ .input1{
+  margin-left: 240px;
+  height: 33px;
+  margin-right: 10px;
+  padding-right: 300px ;
+  border-radius:5px;
+  border-color: rgba(0, 0, 0, 0.212);
+ }
+ #b5{
+  margin-left: 240px;
+  margin-right: 300px;
+  margin-top: 40px;
+ }
+ .div3{
+  margin-left: 240px;
+ text-align: justify;
+ margin-right: 300px;
+  margin-top: 30px;
+  font-size: 20px;
+ }
+  #hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 500px;
+  }
+   .button1{
+     border-radius: 50px;
+   }
+   .button1:hover{
+     background-color: blue;
+   }
