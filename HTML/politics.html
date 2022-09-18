@@ -1,72 +1,48 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    <style type="text/css">
-.div1 li{
-     display: inline;
-     height: 100%;
-     padding-bottom: -1%;
-  }
-  .ul1{
-     background-color: rgba(128, 128, 128, 0.486);
-     max-width: 100%;
-     border: 2px black solid;
-     padding: 10px;
-     max-width: 100%;
- 
-  }
-  #a1{
-     text-align: center;
-     padding: 5px;
-  }
-  #a2{
-     padding: 5px;
-  }
-  #a3{
-     margin-left: 20px;
-  }
-  #a4{
-     margin-left: 300px;
-     text-align: center;
-     font-family:'Courier New', Courier, monospace cursive ;
-     font-size: 25px;
-  }
-  #a5{
-  background-color: black;
-  color: aliceblue;
-  margin-left: 200px;
-  }
-  #a6:hover{
-     background-color: black;
-     color: aliceblue;      
-  }
-  .div2 img{
-    margin-right: 20px;
-    margin-left: 40px;
-  }
-  .div2 h1{
-       text-align: center;
-       font-size: 60px;
-  }
-    </style>
-    </head>
-    <body>
-        <ul class="ul1">
-            <div class="div1">
-                <button id="a1" class="button1"><li ><img src="image/three-line.png" alt="three-line" height="10px "></li></button>
-                <button id="a2" class="button1"><li ><img src="image/search-icon.png" alt="search" height="10px"></li></button> 
-                <li id="a3"><a href="index.html"> Today's news</a></li>
-                <li id="a4">  <i><b> THE NEW YORK TIMES </b></i> </li>
-                <button id="a5" class="button1"><li>subscribe for $600/YEAR</li></button>
-                <button id="a6" class="button1"><li>ACCOUNTS</li></button>
-            </div>
-               </ul>
-               <div class="div2">
-            <img src="image/politics.jpeg" alt="politics" height="600px">
-            <h1>These 97 Members of Congress <br>
-                Reported Trades in Companies <br>
-                Influenced by Their Committees <br>
-                </h1>     
-        </div>
-    </body>
+   <head>
+      <title>97 MEMBERS OF CONGRESS</title>
+     <link rel="stylesheet" href="../CSS/politics.css">
+   </head>
+   <body>
+      <ul class="ul1">
+         <div class="div1">
+             <button id="a1" class="button1"><li ><img src="../image/three-line.png" alt="three-line" height="10px" width="20px" ></li></button>
+             <button id="a2" class="button1"><li ><img src="../image/search-icon.png" alt="search" height="10px"></li></button> 
+             <li id="a3"><a href="https://www.nytimes.com/section/politics"> POLITICS</a></li>
+             <li id="a4">  <i><b> THE NEW YORK TIMES </b></i> </li>
+             <button id="a5" class="button1"><li>subscribe for $600/YEAR</li></button>
+             <button id="a6" class="button1"><li>ACCOUNTS</li></button>
+         </div>
+         </ul>
+     <img src="../image/97member.jpg" alt="" width="1200px" class="image1">
+     <h1 id="a9">These 97 Members of Congress Reported Trades in Companies Influenced by Their Committees   </h1>
+     <p id="a0"><b>By <span> Alicia Parlapiano, Adam Playford </span>and <span> Kate Kelly </span> <br>
+      Produced by Ege Uz</b></p>
+      <p id="b1">Sept. 13, 2022</p>
+      <hr id="b2">
+      <a href="https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html" id="b3">READ FULL ARTICLE</a>
+      <div class="div2">
+      <P>At least 97 current members of Congress bought or sold stock, bonds or other financial assets that intersected with their congressional work or reported similar transactions by their spouse or a dependent child, <span><U>an analysis by The New York Times has found.</U> </span> </P>
+      <p>U.S. lawmakers are not banned from investing in any company, including those that could be affected by their decisions. But the trading patterns uncovered by the Times analysis underscore longstanding concerns about the potential for conflicts of interest or use of inside information by members of Congress, government ethics experts say.     </p>
+     <p>Times reporters analyzed transactions between 2019 and 2021 using a database of members’ financial filings called <span>Capitol Trades </span> created by <span> 2iQ Research</span>. They matched the trades against relevant committee assignments and the dates of hearings and congressional investigations.   </p>
+     <p>When contacted, many of the lawmakers said the trades they reported had been carried out independently by a spouse or a broker with no input from them. Some have since sold all their stocks or moved them into blind trusts. Two said the trades were accidental.   </p>
+     <p>Here’s everything The Times’s analysis turned up.</p>
+   </div>
+     <p id="b4"> <span> Got a confidential news tip? </span> The New York Times would like to hear from readers who want to share messages and materials with our journalists. <span> Learn more.</span></p> <br>
+     <input type="text" name="find a member" class="input1">
+     <hr id="b5">
+     <div class="div3">
+     <h3>About analysis</h4>
+     <p>The Times started with data on financial transactions by members of Congress or their immediate family members between 2019 and 2021. The data was drawn from filings by the <span> senators </span> and <span> representatives,</span> which were digitized and connected to data on the companies’ industries by <span> Capitol Trades </span>, a project of the Frankfurt-based financial data company <span> 2iQ Research </span>. The data was compiled by the company’s team of more than 100 analysts, who reviewed each filing by hand, according to Ahmed Asaad, head of research at Capitol Trades, and Diona Denkovska, 2iQ Research’s head of data strategy.   </p>
+     <p>Times reporters built a database of more than 9,000 examples of how those companies intersected with specific congressional committees and subcommittees. They identified committees that oversee areas of federal policy vital to the companies’ business, and those that oversee or fund federal agencies that gave the companies significant contracts. They also looked at investigations that committees have performed into specific corporations and the company leaders whom those committees called to testify in hearings.   </p>
+     <p>They matched those potential conflicts with data on committee assignments, provided by the <span> ProPublica Congress API </span>, Congressional Quarterly and <span> Charles Stewart III </span>, a professor at M.I.T., to find examples of trades that overlapped with the member’s committee tenure.   </p>
+     <p>The Times did not include trades in municipal bonds, mutual funds or index funds, even those that track a specific sector. It also did not consider trades by members who moved quickly to divest from shares shortly after being appointed to a relevant committee or those whose transactions were all sales, as long as they were entirely divesting themselves of stocks within a 60-day period.</p>
+     <p>The Times could not account for every committee that affects each company; as a result, the analysis is surely an undercount.   </p>
+     <hr id="hr">
+     <p>Francesca Paris contributed reporting.   </p> 
+     <br>
+     <button class="button1"><img src="../image/shear.png" alt="shear" width="20px"></button>
+   </div>
+   </body>
 </html>
